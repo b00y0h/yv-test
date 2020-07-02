@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Stats"
+date:   2020-07-02 11:55:47 -0400
+---
+## 2 IWC - One Script
+![2 IWC - One Script](img/IWC2-copy.png)
+[Stats](https://tools.pingdom.com/#5cc45aa7be400000) | 
+[Source]({% post_url 2020-06-18-IWC2-copy %})
+
+## 3 IWC - One Script
+![3 IWC - One Script](img/IWC3-copy.png)
+[Stats](https://tools.pingdom.com/#5cc45b2d13c00000) | 
+[Source]({% post_url 2020-06-20-IWC3 copy %})
+
+## 4 IWC - Multiple Scripts
+![4 IWC - Multiple Scripts](img/IWC4.png)
+[Stats](https://tools.pingdom.com/#5cc458bb6b800000) | 
+[Source]({% post_url 2020-06-22-IWC4 copy %})
+
+## 4 IWC - One Script
+![4 IWC - One Script](img/IWC4-copy.png)
+[Stats](https://tools.pingdom.com/#5cc456d909000000) | 
+[Source]({% post_url 2020-06-23-IWC4 %})
+
+## 5 IWC - One Script
+![5 IWC - One Script](img/IWC5-copy.png)
+[Stats](https://tools.pingdom.com/#5cc4568bf2c00000) | 
+[Source]({% post_url 2020-06-24-IWC5 copy %})
+
+## 6 IWC - One Script
+![6 IWC - One Script](img/IWC6-copy.png)
+[Stats](https://tools.pingdom.com/#5cc45a1870400000) | 
+[Source]({% post_url 2020-06-26-IWC6 copy %})
