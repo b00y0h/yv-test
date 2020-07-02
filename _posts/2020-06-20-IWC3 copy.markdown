@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "IWC 2"
+title:  "3 IWC - One Script"
 date:   2020-07-02 12:55:47 -0400
-categories: IWC separate-script-tags
+categories: IWC one-script-tags
 ---
+
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>
 
 1st Embed
 
@@ -17,7 +19,7 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 >Virtual Tour</a>
-<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+	 </div>
   </div>
 
 
@@ -40,6 +42,22 @@ data-image-quality="20"
 data-capabilities="48"
 data-loc="142970"
 >Virtual Tour</a>
-<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+	 </div>
   </div>
 
+
+3rd Embed
+
+<div style="position:relative;">
+ <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="v"
+data-link-type="immersive"
+data-inst="78506"
+data-type="inline-embed"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+data-loc="142971"
+>Virtual Tour</a>	 </div>
+  </div>

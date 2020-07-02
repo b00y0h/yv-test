@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IWC 12"
+title:  "12 IWC - Multiple Scripts"
 date:   2020-07-02 12:55:47 -0400
 categories: IWC separate-script-tags
 ---
