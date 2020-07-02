@@ -32,3 +32,13 @@ date:   2020-07-02 11:55:47 -0400
 ![6 IWC - One Script](img/IWC6-copy.png)
 [Stats](https://tools.pingdom.com/#5cc45a1870400000) | 
 [Source]({% post_url 2020-06-26-IWC6 copy %})
+
+## 12 IWC - One Script
+![12 IWC - One Script](img/iwc12-copy.png)
+[Stats](https://tools.pingdom.com/#5cc45f1aa6c00000) | 
+[Source]({% post_url 2020-06-28-IWC12 copy %})
+
+## 12 IWC - Multiple Scripts
+![12 IWC - One Script](img/iwc12.png)
+[Stats](https://tools.pingdom.com/#5cc45fc750c00000) | 
+[Source]({% post_url 2020-06-29-IWC12 %})
