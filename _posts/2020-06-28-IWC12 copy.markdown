@@ -6,7 +6,7 @@ categories: IWC one-script-tags
 ---
 
 1st Embed
-<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3">
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>
 
 <div style="position:relative;">
  <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
@@ -18,7 +18,7 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 >Virtual Tour</a>
-</script>	 </div>
+	 </div>
   </div>
 
 
@@ -41,7 +41,7 @@ data-image-quality="20"
 data-capabilities="48"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>
 
 
@@ -78,7 +78,7 @@ data-image-quality="20"
 data-capabilities="96"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>
 
 5th Embed
@@ -99,7 +99,7 @@ data-image-quality="20"
 data-capabilities="96"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>ds
 
 
@@ -130,7 +130,7 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>
 
 
@@ -153,7 +153,7 @@ data-image-quality="20"
 data-capabilities="48"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>
 
 
@@ -190,7 +190,7 @@ data-image-quality="20"
 data-capabilities="96"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>
 
 5th Embed
@@ -211,7 +211,7 @@ data-image-quality="20"
 data-capabilities="96"
 data-loc="142970"
 >Virtual Tour</a>
-</script>	 </div>
+</div>
   </div>ds
 
 
