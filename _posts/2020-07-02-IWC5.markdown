@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "IWC 5"
+date:   2020-07-02 12:55:47 -0400
+categories: IWC separate-script-tags
+---
+
+1st Embed
+
+<div style="position:relative;">
+ <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="v"
+data-link-type="immersive"
+data-inst="62610"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+>Virtual Tour</a>
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+  </div>
+
+
+
+
+2nd Embed
+
+<div style="position:relative;">
+ <div style=" margin-left: auto;margin-right: auto;width:600px;height:400px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="w"
+data-link-type="immersive"
+data-inst="78506"
+data-type="inline-embed"
+data-stopid="273479"
+data-load-stop-only="1"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+data-capabilities="48"
+data-loc="142970"
+>Virtual Tour</a>
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+  </div>
+
+
+3rd Embed
+
+<div style="position:relative;">
+ <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="v"
+data-link-type="immersive"
+data-inst="78506"
+data-type="inline-embed"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+data-loc="142971"
+>Virtual Tour</a>	 </div>
+  </div>
+
+
+4th Embed
+
+<div style="position:relative;">
+ <div style="margin-left:auto; margin-right: auto;width:1440px;height:600px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="v"
+data-inst="78506"
+data-type="inline-embed"
+data-stopid="273504"
+data-load-stop-only="1"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+data-capabilities="96"
+data-loc="142970"
+>Virtual Tour</a>
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+  </div>
+
+5th Embed
+
+<div style="position:relative;">
+ <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><div style="position:relative;">
+ <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+title="Virtual Reality, Virtual Tour"
+data-platform="w"
+data-link-type="immersive"
+data-inst="78506"
+data-type="inline-embed"
+data-stopid="273531"
+data-load-stop-only="1"
+data-image-width="100%"
+data-image-height="100%"
+data-image-quality="20"
+data-capabilities="96"
+data-loc="142970"
+>Virtual Tour</a>
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>	 </div>
+  </div>
