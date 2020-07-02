@@ -8,26 +8,19 @@ categories: IWC one-script-tags
 1st Embed
 <script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
 data-inst="62610"
 data-image-width="100%"
 data-image-height="100%"
-data-image-quality="20"
->Virtual Tour</a>
-	 </div>
-  </div>
-
-
+data-image-quality="20">Virtual Tour</a>
 
 
 2nd Embed
 
-<div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:600px;height:400px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="w"
 data-link-type="immersive"
@@ -39,16 +32,13 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="48"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>
+data-loc="142970">Virtual Tour</a>
+
 
 
 3rd Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
@@ -57,15 +47,12 @@ data-type="inline-embed"
 data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
-data-loc="142971"
->Virtual Tour</a>	 </div>
-  </div>
+data-loc="142971">Virtual Tour</a>
 
 
 4th Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:600px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-inst="78506"
@@ -76,16 +63,12 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="96"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>
+data-loc="142970">Virtual Tour</a>
+
 
 5th Embed
 
-<div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="w"
 data-link-type="immersive"
@@ -97,16 +80,12 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="96"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>ds
+data-loc="142970">Virtual Tour</a>
 
 
 6th Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:600px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
@@ -115,31 +94,23 @@ data-type="inline-embed"
 data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
-data-loc="142977"
->Virtual Tour</a>	 </div>
-  </div>
+data-loc="142977">Virtual Tour</a>
+
 1st Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
 data-inst="62610"
 data-image-width="100%"
 data-image-height="100%"
-data-image-quality="20"
->Virtual Tour</a>
-</div>
-  </div>
-
-
+data-image-quality="20">Virtual Tour</a>
 
 
 2nd Embed
 
-<div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:600px;height:400px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="w"
 data-link-type="immersive"
@@ -151,16 +122,11 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="48"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>
-
+data-loc="142970">Virtual Tour</a>
 
 3rd Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
@@ -169,15 +135,11 @@ data-type="inline-embed"
 data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
-data-loc="142971"
->Virtual Tour</a>	 </div>
-  </div>
-
+data-loc="142971">Virtual Tour</a>
 
 4th Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:600px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-inst="78506"
@@ -188,16 +150,11 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="96"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>
+data-loc="142970">Virtual Tour</a>
 
 5th Embed
 
-<div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><div style="position:relative;">
- <div style=" margin-left: auto;margin-right: auto;width:450px;height:300px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="w"
 data-link-type="immersive"
@@ -209,16 +166,12 @@ data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
 data-capabilities="96"
-data-loc="142970"
->Virtual Tour</a>
-</div>
-  </div>ds
+data-loc="142970">Virtual Tour</a>
 
 
 6th Embed
 
-<div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:600px;"><a href="https://www.youvisit.com" class="virtualtour_embed"
+<a href="https://www.youvisit.com" class="virtualtour_embed"
 title="Virtual Reality, Virtual Tour"
 data-platform="v"
 data-link-type="immersive"
@@ -227,6 +180,4 @@ data-type="inline-embed"
 data-image-width="100%"
 data-image-height="100%"
 data-image-quality="20"
-data-loc="142977"
->Virtual Tour</a>	 </div>
-  </div>
+data-loc="142977">Virtual Tour</a>
