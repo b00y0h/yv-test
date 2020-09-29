@@ -5,3 +5,7 @@
 @import "minima/layout";
 
 @import "minima/syntax-highlighting";
+
+.post-content h4 {
+  text-transform: capitalize;
+}

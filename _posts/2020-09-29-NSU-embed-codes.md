@@ -85,7 +85,7 @@ Experience</a>
 
 {% endhighlight %}
 
-#### GETTING Involved MINI TOUR 08-02
+#### GETTING INVOLVED MINI TOUR 08-02
 
 <a alt="Launch Experience"
   href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143136&">Launch
