@@ -13,6 +13,8 @@ categories: test-code
 {{ styles | scssify }}
 </style>
 
+[Page 2 >>]({% post_url 2020-09-29-NSU-embed-codes-page-2 %})
+
 ## For implementation
 
 Reference page: [https://nsu-iwc.github.io/iwc/](https://nsu-iwc.github.io/iwc/)
