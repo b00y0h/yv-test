@@ -47,14 +47,14 @@ Reference page: [https://nsu-iwc.github.io/iwc/](https://nsu-iwc.github.io/iwc/)
 
 #### LIVING ON CAMPUS MINI TOUR 07-04
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191">Launch
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191">Launch
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch
 Experience</a>
 
 <script
@@ -67,14 +67,14 @@ Experience</a>
 
 #### LIVING ON CAMPUS MINI TOUR 07-05
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-capabilities=1">Launch
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-capabilities=1">Launch
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch
 Experience</a>
 
 <script
@@ -108,14 +108,14 @@ Experience</a>
 #### CHOOSING YOUR MAJOR MINI TOUR 19-01
 
 <a alt="Launch Experience"
-  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&">Launch
+  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -212,14 +212,14 @@ Experience</a>
 #### Don Taft University Commons, 02-01, 03-01, 04-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143141&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143141&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143141&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143141&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -232,14 +232,14 @@ Experience</a>
 #### Miniaci Performing Arts Center, 06-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143143&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143143&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143143&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143143&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -252,14 +252,14 @@ Experience</a>
 #### Razor's Reef, 12-03
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143145&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143145&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143145&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143145&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -272,14 +272,14 @@ Experience</a>
 #### Medicinal Garden, P16-01, P17-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143148&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143148&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143148&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143148&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -292,14 +292,14 @@ Experience</a>
 #### The Commons Residence Hall Room, 07-02
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143152&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143152&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143152&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143152&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -312,14 +312,14 @@ Experience</a>
 #### Flight Deck Outdoor Cabanas, 07-03
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143153&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143153&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143153&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143153&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -352,14 +352,14 @@ Experience</a>
 #### Gold Circle Lake, 12-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143157&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143157&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143157&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143157&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -372,14 +372,14 @@ Experience</a>
 #### Oceanographic Campus, 12-02, 19-03, P13-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143158&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143158&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143158&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143158&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -392,14 +392,14 @@ Experience</a>
 #### Pediatric Audiology Lab, P03-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143159&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143159&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143159&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143159&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -412,14 +412,14 @@ Experience</a>
 #### Dental Simulation Lab, P10-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143160&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143160&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143160&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143160&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -432,14 +432,14 @@ Experience</a>
 #### Optical Dispensary, P15-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143163&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143163&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143163&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143163&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -452,14 +452,14 @@ Experience</a>
 #### Physical Therapy Lab, P18-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143164&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143164&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143164&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143164&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -472,14 +472,14 @@ Experience</a>
 #### The University School, 22-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143165&">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143165&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143165&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143165&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -492,16 +492,14 @@ Experience</a>
 #### Mock Courtroom, P08-01, P12-01
 
 <a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143142&
-">Launch
+            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143142&data-ims-hide-panels=1">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143142&
-">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-type=inline-embed&data-image-width=100%&data-image-height=100%&data-loc=143142&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
