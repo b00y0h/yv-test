@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/yv-test/feed.xml" rel="self" type="application/atom+xml" /><link href="/yv-test/" rel="alternate" type="text/html" /><updated>2020-09-29T20:37:53+00:00</updated><id>/yv-test/feed.xml</id><title type="html">IWC Embed Codes</title><subtitle>IWC page embed codes</subtitle><entry><title type="html">NSU Embed codes IWC</title><link href="/yv-test/test-code/NSU-embed-codes.html" rel="alternate" type="text/html" title="NSU Embed codes IWC" /><published>2020-09-29T13:02:47+00:00</published><updated>2020-09-29T13:02:47+00:00</updated><id>/yv-test/test-code/NSU-embed-codes</id><content type="html" xml:base="/yv-test/test-code/NSU-embed-codes.html">&lt;style&gt;
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.footer-col-wrapper:after, .wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.wrapper:after, .footer-col-wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+.post-content h4 { text-transform: capitalize; }
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;a href=&quot;/yv-test/test-code/NSU-embed-codes-page-2.html&quot;&gt;Page 2 »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;for-implementation&quot;&gt;For implementation&lt;/h2&gt;
+
+&lt;p&gt;Reference page: &lt;a href=&quot;https://nsu-iwc.github.io/iwc/&quot;&gt;https://nsu-iwc.github.io/iwc/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;please-note&quot;&gt;Please note:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The tour/IWC consists of two parts, the embed code (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt; parts) and the script tag (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&amp;lt;/script&lt;/code&gt; part).&lt;/li&gt;
+  &lt;li&gt;The script tag only needs to be placed once per page&lt;/li&gt;
+  &lt;li&gt;Script tag must be placed below the embed code.&lt;/li&gt;
+  &lt;li&gt;If you will be placing multiple tours/IWCs on a page, simply copy/paste the embed code for each tour and place one script tag below the tours.&lt;/li&gt;
+  &lt;li&gt;You’ll notice on this page that each code example includes the script tag. This is not needed unless it’s the last one on the page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mini-tours&quot;&gt;Mini Tours&lt;/h3&gt;
+
+&lt;h4 id=&quot;living-on-campus-mini-tour-07-01&quot;&gt;LIVING ON CAMPUS MINI TOUR 07-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143140&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143140&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;living-on-campus-mini-tour-07-04&quot;&gt;LIVING ON CAMPUS MINI TOUR 07-04&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143139&amp;data-capabilities=8191&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-1&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143139&amp;amp;data-capabilities=8191&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;living-on-campus-mini-tour-07-05&quot;&gt;LIVING ON CAMPUS MINI TOUR 07-05&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143138&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-2&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143138&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;getting-involved-mini-tour-08-02&quot;&gt;GETTING INVOLVED MINI TOUR 08-02&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot;  href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-ims-hide-panels=1&amp;data-loc=143136&amp;&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-3&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-ims-hide-panels=1&amp;amp;data-loc=143136&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;choosing-your-major-mini-tour-19-01&quot;&gt;CHOOSING YOUR MAJOR MINI TOUR 19-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143135&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-4&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143135&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;choosing-your-major-mini-tour-19-02&quot;&gt;CHOOSING YOUR MAJOR MINI TOUR 19-02&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-ims-hide-panels=1&amp;data-loc=143134&amp;&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-5&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-ims-hide-panels=1&amp;amp;data-loc=143134&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;choosing-your-major-mini-tour-19-04&quot;&gt;CHOOSING YOUR MAJOR MINI TOUR 19-04&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-ims-hide-panels=1&amp;data-loc=143133&amp;&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-6&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-ims-hide-panels=1&amp;amp;data-loc=143133&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;huizenga-business-innovation-academy-mini-tour-23-01&quot;&gt;HUIZENGA BUSINESS INNOVATION ACADEMY MINI TOUR 23-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-ims-hide-panels=1&amp;data-loc=143132&amp;&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-7&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-ims-hide-panels=1&amp;amp;data-loc=143132&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;experiential-learning-mini-tour-25-01&quot;&gt;EXPERIENTIAL LEARNING MINI TOUR 25-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-ims-hide-panels=1&amp;data-loc=143131&amp;&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-8&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-ims-hide-panels=1&amp;amp;data-loc=143131&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;/yv-test/test-code/NSU-embed-codes-page-2.html&quot;&gt;Page 2 »&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="test-code" /><summary type="html"></summary></entry><entry><title type="html">NSU Embed codes IWC (page 2)</title><link href="/yv-test/test-code/NSU-embed-codes-page-2.html" rel="alternate" type="text/html" title="NSU Embed codes IWC (page 2)" /><published>2020-09-29T13:02:47+00:00</published><updated>2020-09-29T13:02:47+00:00</updated><id>/yv-test/test-code/NSU-embed-codes-page-2</id><content type="html" xml:base="/yv-test/test-code/NSU-embed-codes-page-2.html">&lt;style&gt;
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.footer-col-wrapper:after, .wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.wrapper:after, .footer-col-wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+.post-content h4 { text-transform: capitalize; }
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;a href=&quot;/yv-test/test-code/NSU-embed-codes.html&quot;&gt;« Page 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;interactive-assets&quot;&gt;Interactive Assets&lt;/h3&gt;
+
+&lt;h4 id=&quot;don-taft-university-commons-02-01-03-01-04-01&quot;&gt;Don Taft University Commons, 02-01, 03-01, 04-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143141&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143141&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;miniaci-performing-arts-center-06-01&quot;&gt;Miniaci Performing Arts Center, 06-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143143&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-1&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143143&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;razors-reef-12-03&quot;&gt;Razor’s Reef, 12-03&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143145&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-2&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143145&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;medicinal-garden-p16-01-p17-01&quot;&gt;Medicinal Garden, P16-01, P17-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143148&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-3&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143148&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;the-commons-residence-hall-room-07-02&quot;&gt;The Commons Residence Hall Room, 07-02&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143152&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-4&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143152&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;flight-deck-outdoor-cabanas-07-03&quot;&gt;Flight Deck Outdoor Cabanas, 07-03&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143153&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-5&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143153&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;radio-x-08-01-18-01&quot;&gt;Radio X, 08-01, 18-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143128&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-6&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143128&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;gold-circle-lake-12-01&quot;&gt;Gold Circle Lake, 12-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143157&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-7&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143157&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;oceanographic-campus-12-02-19-03-p13-01&quot;&gt;Oceanographic Campus, 12-02, 19-03, P13-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143158&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-8&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143158&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;pediatric-audiology-lab-p03-01&quot;&gt;Pediatric Audiology Lab, P03-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143159&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-9&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143159&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;dental-simulation-lab-p10-01&quot;&gt;Dental Simulation Lab, P10-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143160&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-10&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143160&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;optical-dispensary-p15-01&quot;&gt;Optical Dispensary, P15-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143163&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-11&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143163&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;physical-therapy-lab-p18-01&quot;&gt;Physical Therapy Lab, P18-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143164&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-12&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143164&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;the-university-school-22-01&quot;&gt;The University School, 22-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143165&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-13&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143165&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;mock-courtroom-p08-01-p12-01&quot;&gt;Mock Courtroom, P08-01, P12-01&lt;/h4&gt;
+
+&lt;!-- &lt;a alt=&quot;Launch Experience&quot; href=&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=62610&amp;data-type=inline-embed&amp;data-image-width=100%&amp;data-image-height=100%&amp;data-loc=143142&amp;data-ims-hide-panels=1&quot;&gt;Launch Experience&lt;/a&gt; --&gt;
+
+&lt;h5 id=&quot;code-14&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Launch Experience&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/#/vte/?data-platform=v&amp;amp;data-link-type=immersive&amp;amp;data-inst=62610&amp;amp;data-type=inline-embed&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;data-loc=143142&amp;amp;data-ims-hide-panels=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Launch Experience&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="test-code" /><summary type="html"></summary></entry><entry><title type="html">Undergraduate Experience | Nova Southeastern University</title><link href="/yv-test/experience.html" rel="alternate" type="text/html" title="Undergraduate Experience | Nova Southeastern University" /><published>2020-07-10T16:02:47+00:00</published><updated>2020-07-10T16:02:47+00:00</updated><id>/yv-test/experience</id><content type="html" xml:base="/yv-test/experience.html">&lt;h1 id=&quot;the-nsu-florida-undergraduate-experience&quot;&gt;THE NSU FLORIDA UNDERGRADUATE EXPERIENCE&lt;/h1&gt;
+
+&lt;h2 id=&quot;when-youre-a-shark-the-skys-the-limit&quot;&gt;When you’re a Shark, the sky’s the limit.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.undergrad.nova.edu/academics&quot;&gt;Academics&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/student-life&quot;&gt;Student Life&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/funding&quot;&gt;Funding Your Education&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/admissions&quot;&gt;Admissions&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/visit&quot;&gt;Visit Campus&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/questions&quot;&gt;Frequently Asked Questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;harness-the-best-within-yourself-and-become-a-force-of-nature&quot;&gt;HARNESS THE BEST WITHIN YOURSELF AND BECOME A FORCE OF NATURE&lt;/h2&gt;
+
+&lt;p&gt;Sharks are dominant. They’re strong, fast and adaptable. Sharks always prevail. At Nova Southeastern University, we create sharks. We give students the competitive advantage they need to become confident, capable, yet caring professionals.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=6IEEmqDiGFA&quot; title=&quot;Get the NSU Edge&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/6IEEmqDiGFA/0.jpg&quot; alt=&quot;The NSU Edge is about real-world learning that goes beyond the classroom. Nova Southeastern University students learn more through personal attention, more hands-on experiences and unique career development opportunities that set them up for success.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Preparing to dominate is not about winning or losing. It’s about harnessing the best within yourself—and using that to inspire others—on the job, in your community, in the relationships you build. It’s about driving forward and becoming an unstoppable force of nature.&lt;/p&gt;
+
+&lt;p&gt;With a fast track to graduation, personal career coaches, access to our vast network of industry partners and a chance to explore your personal passions, you will always have an edge.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you goal oriented and open to new things, then you should definitely come to NSU.&lt;/p&gt;
+
+  &lt;p&gt;&lt;cite&gt;Stephanie L. | Alumna&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$41 Million+ In Scholarships Awarded&lt;/li&gt;
+  &lt;li&gt;17:1 Student-Faculty Ratio&lt;/li&gt;
+  &lt;li&gt;Top Ranked By Forbes, U.S. News and Niche.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;college-visits-dont-get-better-than-this&quot;&gt;COLLEGE VISITS DON’T GET BETTER THAN THIS&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://img.youtube.com/vi/6IEEmqDiGFA/0.jpg&quot; alt=&quot;Shark fountain on NSU Florida Campus&quot; /&gt;
+All it takes is one visit to NSU for most families to fall in love with campus. Come see for yourself! We’d love to met you.
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/visit&quot;&gt;Schedule a Visit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-an-edge&quot;&gt;Looking for an Edge?&lt;/h2&gt;
+
+&lt;h3 id=&quot;prepare-for-a-real-career-real-contributions-and-real-life&quot;&gt;Prepare for a real career, real contributions and real life.&lt;/h3&gt;
+
+&lt;p&gt;It’s a competitive world out there. Today’s college graduates need an edge to outsmart, outperform and outlast the competition.
+At NSU Florida, we’ll give you that edge from day one—then help you sharpen it. Professors get to know you and help unlock your potential. They’ll give you the skills and confidence to thrive in internships or service-learning opportunities offered by NSU’s community and business partners. You’ll also have a dedicated career coach for all four years to guide your career planning and ensure you get the practical experience you need to build a strong experiential learning portfolio.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=jyQ1ynxStpM&quot; title=&quot;Why should you come to NSU?&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/jyQ1ynxStpM/0.jpg&quot; alt=&quot;Listen to current students talk about why NSU was the right choice for them. Professors who care, small classes, internships and a location that can’t be beat all make the list.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.undergrad.nova.edu/experience/first-time-students&quot;&gt;First-Time Student You’re a high school student or graduate&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/transfer&quot;&gt;Transfer Student - You’ve already earned some college credit&lt;/a&gt;
+&lt;a href=&quot;https://www.undergrad.nova.edu/experience/international&quot;&gt;International Student - You’re interested in coming to the U.S. to study&lt;/a&gt;
+&lt;a href=&quot;https://www.nova.edu/veterans/index.html&quot;&gt;Military or Veteran Student - You’re eligible for military and veteran benefits&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;families-are-sharks-too&quot;&gt;Families are Sharks Too&lt;/h2&gt;
+
+&lt;h3 id=&quot;we-dont-just-welcome-new-students-to-nsu-we-welcome-new-families&quot;&gt;We don’t just welcome new students to NSU. We welcome new families.&lt;/h3&gt;
+
+&lt;p&gt;You’ve worked hard to support your student on their path to becoming a Shark. As they move on to the next phase of their life, your involvement is still an important part of their journey.&lt;/p&gt;
+
+&lt;p&gt;We’ve collected some information to answer your questions about NSU and learn why we could be the right fit for your student. Dive in to explore academic and professional opportunities, campus location and culture, financial aid information and other resources about life at NSU.&lt;/p&gt;</content><author><name></name></author><summary type="html">THE NSU FLORIDA UNDERGRADUATE EXPERIENCE</summary></entry><entry><title type="html">NSU Test Code for IWC</title><link href="/yv-test/test-code/NSU-test-code.html" rel="alternate" type="text/html" title="NSU Test Code for IWC" /><published>2020-07-09T16:02:47+00:00</published><updated>2020-07-09T16:02:47+00:00</updated><id>/yv-test/test-code/NSU-test-code</id><content type="html" xml:base="/yv-test/test-code/NSU-test-code.html">&lt;style&gt;
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.footer-col-wrapper:after, .wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: &quot;kern&quot; 1; -moz-font-feature-settings: &quot;kern&quot; 1; -o-font-feature-settings: &quot;kern&quot; 1; font-feature-settings: &quot;kern&quot; 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure &gt; img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li &gt; ul, li &gt; ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
+
+.social-media-list a:hover { text-decoration: none; }
+
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+
+blockquote &gt; :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre &gt; code { border: 0; padding-right: 0; padding-left: 0; }
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+/** Clearfix */
+.wrapper:after, .footer-col-wrapper:after { content: &quot;&quot;; display: table; clear: both; }
+
+/** Icons */
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+
+.social-media-list li + li { padding-top: 5px; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
+
+table tr:nth-child(even) { background-color: #f7f7f7; }
+
+table th, table td { padding: 10px 15px; }
+
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+
+table td { border: 1px solid #e8e8e8; }
+
+/** Site header */
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+
+.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+
+.site-title, .site-title:visited { color: #424242; }
+
+.site-nav { float: right; line-height: 54px; }
+
+.site-nav .nav-trigger { display: none; }
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link { color: #111; line-height: 1.5; }
+
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; } .site-nav label[for=&quot;nav-trigger&quot;] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon &gt; svg { fill: #424242; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 15px; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+
+.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+
+.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+@media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
+
+/** Page content */
+.page-content { padding: 30px 0; flex: 1; }
+
+.page-heading { font-size: 32px; }
+
+.post-list-heading { font-size: 28px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list &gt; li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+.post-content h4 { text-transform: capitalize; }
+
+&lt;/style&gt;
+
+&lt;h2 id=&quot;for-testing-purposes-only&quot;&gt;For Testing Purposes ONLY&lt;/h2&gt;
+
+&lt;p&gt;Sample page: &lt;a href=&quot;https://www.youvisit.com/eabsample/nsu-iwc/&quot;&gt;https://www.youvisit.com/eabsample/nsu-iwc/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;please-note&quot;&gt;Please note:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The tour/IWC consists of two parts, the embed code (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt; parts) and the script tag (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&amp;lt;/script&lt;/code&gt; part).&lt;/li&gt;
+  &lt;li&gt;The script tag only needs to be placed once per page&lt;/li&gt;
+  &lt;li&gt;Script tag must be placed below the embed code.&lt;/li&gt;
+  &lt;li&gt;If you will be placing multiple tours/IWCs on a page, simply copy/paste the embed code for each tour and place one script tag below the tours.&lt;/li&gt;
+  &lt;li&gt;You’ll notice on this page that each code example includes the script tag. This is not needed unless it’s the last one on the page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1st-embed&quot;&gt;1st Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot;margin-left:auto; margin-right: auto; width: 100%; height: 460px;&quot;&gt;
+  &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;62610&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 460px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-link-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;immersive&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;62610&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;2nd-embed&quot;&gt;2nd Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position: relative;&quot;&gt;
+  &lt;div style=&quot;margin-left: auto; margin-right: auto; width: 100%; height: 400px;&quot;&gt;
+    &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273479&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;48&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+    &lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code-1&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 600px; height: 400px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;w&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-link-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;immersive&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;78506&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inline-embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-stopid=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;273479&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-load-stop-only=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;1&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-capabilities=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;48&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-loc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;142970&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+      &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;3rd-embed&quot;&gt;3rd Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position: relative;&quot;&gt;
+  &lt;div style=&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 460px;&quot;&gt;
+    &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-loc=&quot;142971&quot;&gt;Virtual Tour&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code-2&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 460px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-link-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;immersive&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;78506&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inline-embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-loc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;142971&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;4th-embed&quot;&gt;4th Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position: relative;&quot;&gt;
+  &lt;div style=&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 600px;&quot;&gt;
+    &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273504&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code-3&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 600px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;78506&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inline-embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-stopid=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;273504&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-load-stop-only=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;1&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-capabilities=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;96&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-loc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;142970&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;5th-embed&quot;&gt;5th Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position: relative;&quot;&gt;
+  &lt;div style=&quot;margin-left: auto; margin-right: auto; width: 450px; height: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273531&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code-4&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 450px; height: 300px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;w&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-link-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;immersive&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;78506&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inline-embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-stopid=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;273531&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-load-stop-only=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;1&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-capabilities=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;96&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-loc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;142970&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;6th-embed&quot;&gt;6th Embed&lt;/h4&gt;
+
+&lt;div style=&quot;position: relative;&quot;&gt;
+  &lt;div style=&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 600px;&quot;&gt;
+    &lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-loc=&quot;142977&quot;&gt;Virtual Tour&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;code-5&quot;&gt;Code&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;position: relative;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;margin-left: auto; margin-right: auto; width: 1440px; height: 600px;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;virtualtour_embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Virtual Reality, Virtual Tour&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-platform=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-link-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;immersive&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-inst=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;78506&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inline-embed&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;100%&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-image-quality=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;20&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;data-loc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;142977&quot;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Virtual Tour&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script
+  &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;async&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;defer=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;defer&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youvisit.com/tour/Embed/js3&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="test-code" /><summary type="html"></summary></entry><entry><title type="html">Heavy 6</title><link href="/yv-test/iwc/heavy/heavy6.html" rel="alternate" type="text/html" title="Heavy 6" /><published>2020-07-06T16:02:47+00:00</published><updated>2020-07-06T16:02:47+00:00</updated><id>/yv-test/iwc/heavy/heavy6</id><content type="html" xml:base="/yv-test/iwc/heavy/heavy6.html">&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="IWC" /><category term="heavy" /><summary type="html">Virtual Tour</summary></entry><entry><title type="html">Heavy 3</title><link href="/yv-test/iwc/heavy/heavy3.html" rel="alternate" type="text/html" title="Heavy 3" /><published>2020-07-06T15:59:47+00:00</published><updated>2020-07-06T15:59:47+00:00</updated><id>/yv-test/iwc/heavy/heavy3</id><content type="html" xml:base="/yv-test/iwc/heavy/heavy3.html">&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="IWC" /><category term="heavy" /><summary type="html">Virtual Tour</summary></entry><entry><title type="html">Heavy 2</title><link href="/yv-test/iwc/heavy/heavy2.html" rel="alternate" type="text/html" title="Heavy 2" /><published>2020-07-06T15:56:47+00:00</published><updated>2020-07-06T15:56:47+00:00</updated><id>/yv-test/iwc/heavy/heavy2</id><content type="html" xml:base="/yv-test/iwc/heavy/heavy2.html">&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="IWC" /><category term="heavy" /><summary type="html">Virtual Tour</summary></entry><entry><title type="html">Heavy 1</title><link href="/yv-test/iwc/heavy/heavy1.html" rel="alternate" type="text/html" title="Heavy 1" /><published>2020-07-06T15:55:47+00:00</published><updated>2020-07-06T15:55:47+00:00</updated><id>/yv-test/iwc/heavy/heavy1</id><content type="html" xml:base="/yv-test/iwc/heavy/heavy1.html">&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;59968&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;
+
+&lt;!-- &lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;/yv-test/assets/js/js3.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt; --&gt;</content><author><name></name></author><category term="IWC" /><category term="heavy" /><summary type="html">Virtual Tour</summary></entry><entry><title type="html">6 IWC - One Script</title><link href="/yv-test/iwc/one-script-tags/IWC6-copy.html" rel="alternate" type="text/html" title="6 IWC - One Script" /><published>2020-07-02T16:55:47+00:00</published><updated>2020-07-02T16:55:47+00:00</updated><id>/yv-test/iwc/one-script-tags/IWC6%20copy</id><content type="html" xml:base="/yv-test/iwc/one-script-tags/IWC6-copy.html">&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;1st Embed
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;62610&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2nd Embed&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273479&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;48&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3rd Embed&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-loc=&quot;142971&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4th Embed&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273504&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5th Embed&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273531&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6th Embed&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-loc=&quot;142977&quot;&gt;Virtual Tour&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="IWC" /><category term="one-script-tags" /><summary type="html"></summary></entry><entry><title type="html">5 IWC - Multiple Scripts</title><link href="/yv-test/iwc/separate-script-tags/IWC5.html" rel="alternate" type="text/html" title="5 IWC - Multiple Scripts" /><published>2020-07-02T16:55:47+00:00</published><updated>2020-07-02T16:55:47+00:00</updated><id>/yv-test/iwc/separate-script-tags/IWC5</id><content type="html" xml:base="/yv-test/iwc/separate-script-tags/IWC5.html">&lt;p&gt;1st Embed&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot;margin-left:auto; margin-right: auto;width:1440px;height:460px;&quot;&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;62610&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot;&gt;Virtual Tour&lt;/a&gt;
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;	 &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;2nd Embed&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot; margin-left: auto;margin-right: auto;width:600px;height:400px;&quot;&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273479&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;48&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;	 &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;3rd Embed&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot;margin-left:auto; margin-right: auto;width:1440px;height:460px;&quot;&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-loc=&quot;142971&quot;&gt;Virtual Tour&lt;/a&gt;	 &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;4th Embed&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot;margin-left:auto; margin-right: auto;width:1440px;height:600px;&quot;&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;v&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273504&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;	 &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;5th Embed&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot; margin-left: auto;margin-right: auto;width:450px;height:300px;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;
+ &lt;div style=&quot; margin-left: auto;margin-right: auto;width:450px;height:300px;&quot;&gt;&lt;a href=&quot;https://www.youvisit.com&quot; class=&quot;virtualtour_embed&quot; title=&quot;Virtual Reality, Virtual Tour&quot; data-platform=&quot;w&quot; data-link-type=&quot;immersive&quot; data-inst=&quot;78506&quot; data-type=&quot;inline-embed&quot; data-stopid=&quot;273531&quot; data-load-stop-only=&quot;1&quot; data-image-width=&quot;100%&quot; data-image-height=&quot;100%&quot; data-image-quality=&quot;20&quot; data-capabilities=&quot;96&quot; data-loc=&quot;142970&quot;&gt;Virtual Tour&lt;/a&gt;
+&lt;script async=&quot;async&quot; defer=&quot;defer&quot; src=&quot;https://www.youvisit.com/tour/Embed/js3&quot;&gt;&lt;/script&gt;	 &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="IWC" /><category term="separate-script-tags" /><summary type="html">1st Embed</summary></entry></feed>
