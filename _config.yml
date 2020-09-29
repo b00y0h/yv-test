@@ -20,10 +20,10 @@
 
 permalink: none
 
-title: IWC Test
+title: IWC Embed Codes
 email: bobsmith@eab.com
 description: >- # this means to ignore newlines until "baseurl:"
-  IWC page load tests
+  IWC page embed codes
 baseurl: "/yv-test" # the subpath of your site, e.g. /blog
 production_url: "https://b00y0h.github.io/yv-test"
 # url: "https://b00y0h.github.io/yv-test" # the base hostname & protocol for your site, e.g. http://example.com
