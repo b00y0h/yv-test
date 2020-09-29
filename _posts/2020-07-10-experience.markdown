@@ -48,3 +48,16 @@ It’s a competitive world out there. Today’s college graduates need an edge t
 At NSU Florida, we’ll give you that edge from day one—then help you sharpen it. Professors get to know you and help unlock your potential. They’ll give you the skills and confidence to thrive in internships or service-learning opportunities offered by NSU’s community and business partners. You’ll also have a dedicated career coach for all four years to guide your career planning and ensure you get the practical experience you need to build a strong experiential learning portfolio.
 
 [![Listen to current students talk about why NSU was the right choice for them. Professors who care, small classes, internships and a location that can’t be beat all make the list.](http://img.youtube.com/vi/jyQ1ynxStpM/0.jpg)](http://www.youtube.com/watch?v=jyQ1ynxStpM "Why should you come to NSU?")
+
+[First-Time Student You’re a high school student or graduate](https://www.undergrad.nova.edu/experience/first-time-students)
+[Transfer Student - You’ve already earned some college credit](https://www.undergrad.nova.edu/experience/transfer)
+[International Student - You’re interested in coming to the U.S. to study](https://www.undergrad.nova.edu/experience/international)
+[Military or Veteran Student - You’re eligible for military and veteran benefits](https://www.nova.edu/veterans/index.html)
+
+## Families are Sharks Too
+
+### We don’t just welcome new students to NSU. We welcome new families.
+
+You’ve worked hard to support your student on their path to becoming a Shark. As they move on to the next phase of their life, your involvement is still an important part of their journey.
+
+We’ve collected some information to answer your questions about NSU and learn why we could be the right fit for your student. Dive in to explore academic and professional opportunities, campus location and culture, financial aid information and other resources about life at NSU.

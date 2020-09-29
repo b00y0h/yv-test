@@ -28,7 +28,7 @@ Sample page: [https://www.youvisit.com/eabsample/nsu-iwc/](https://www.youvisit.
 #### 1st Embed
 
 <div style="position:relative;">
- <div style="margin-left:auto; margin-right: auto;width:1440px;height:460px;">
+ <div style="margin-left:auto; margin-right: auto; width: 100%; height: 460px;">
   <a href="https://www.youvisit.com" class="virtualtour_embed"
      title="Virtual Reality, Virtual Tour"
      data-platform="v"
@@ -74,7 +74,7 @@ Sample page: [https://www.youvisit.com/eabsample/nsu-iwc/](https://www.youvisit.
 
 <div style="position: relative;">
   <div
-    style="margin-left: auto; margin-right: auto; width: 600px; height: 400px;"
+    style="margin-left: auto; margin-right: auto; width: 100%; height: 400px;"
   >
     <a
       href="https://www.youvisit.com"
