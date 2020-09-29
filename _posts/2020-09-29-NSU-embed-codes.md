@@ -108,14 +108,14 @@ Experience</a>
 #### CHOOSING YOUR MAJOR MINI TOUR 19-01
 
 <a alt="Launch Experience"
-  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143136&">Launch
+  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&">Launch
 Experience</a>
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143135&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&">Launch Experience</a>
 
 <script
   async="async"
