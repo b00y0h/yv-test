@@ -31,7 +31,7 @@ Reference page: [https://nsu-iwc.github.io/iwc/](https://nsu-iwc.github.io/iwc/)
 
 #### LIVING ON CAMPUS MINI TOUR 07-01
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143140&data-ims-hide-panels=1">Launch Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143140&data-ims-hide-panels=1">Launch Experience</a> -->
 
 ##### Code
 
@@ -49,15 +49,13 @@ Reference page: [https://nsu-iwc.github.io/iwc/](https://nsu-iwc.github.io/iwc/)
 
 #### LIVING ON CAMPUS MINI TOUR 07-04
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch Experience</a> -->
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch
-Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143139&data-capabilities=8191&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -69,15 +67,13 @@ Experience</a>
 
 #### LIVING ON CAMPUS MINI TOUR 07-05
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch Experience</a> -->
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch
-Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143138&data-ims-hide-panels=1">Launch Experience</a>
 
 <script
   async="async"
@@ -89,9 +85,7 @@ Experience</a>
 
 #### GETTING INVOLVED MINI TOUR 08-02
 
-<a alt="Launch Experience"
-  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143136&">Launch
-Experience</a>
+<!-- <a alt="Launch Experience"  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143136&">Launch Experience</a> -->
 
 ##### Code
 
@@ -109,9 +103,7 @@ Experience</a>
 
 #### CHOOSING YOUR MAJOR MINI TOUR 19-01
 
-<a alt="Launch Experience"
-  href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&data-ims-hide-panels=1">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-loc=143135&data-ims-hide-panels=1">Launch Experience</a> -->
 
 ##### Code
 
@@ -129,9 +121,7 @@ Experience</a>
 
 #### CHOOSING YOUR MAJOR MINI TOUR 19-02
 
-<a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143134&">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143134&">Launch Experience</a> -->
 
 ##### Code
 
@@ -149,9 +139,7 @@ Experience</a>
 
 #### CHOOSING YOUR MAJOR MINI TOUR 19-04
 
-<a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143133&">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143133&">Launch Experience</a> -->
 
 ##### Code
 
@@ -169,17 +157,13 @@ Experience</a>
 
 #### HUIZENGA BUSINESS INNOVATION ACADEMY MINI TOUR 23-01
 
-<a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143132&">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143132&">Launch Experience</a> -->
 
 ##### Code
 
 {% highlight html %}
 
-<a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143132&">Launch
-Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143132&">Launch Experience</a>
 
 <script
   async="async"
@@ -191,9 +175,7 @@ Experience</a>
 
 #### EXPERIENTIAL LEARNING MINI TOUR 25-01
 
-<a alt="Launch Experience"
-            href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143131&">Launch
-Experience</a>
+<!-- <a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=62610&data-image-width=100%&data-image-height=100%&data-ims-hide-panels=1&data-loc=143131&">Launch Experience</a> -->
 
 ##### Code
 
